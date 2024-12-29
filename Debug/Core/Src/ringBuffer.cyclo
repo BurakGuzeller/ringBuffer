@@ -1,0 +1,9 @@
+../Core/Src/ringBuffer.c:15:6:resetBuffer	1
+../Core/Src/ringBuffer.c:27:6:bufferIsEmpty	1
+../Core/Src/ringBuffer.c:36:6:bufferIsFull	1
+../Core/Src/ringBuffer.c:46:6:writeBufferData	2
+../Core/Src/ringBuffer.c:60:9:readBufferData	2
+../Core/Src/ringBuffer.c:75:6:findDataInBuffer	7
+../Core/Src/ringBuffer.c:108:6:copyBufferData	8
+../Core/Src/ringBuffer.c:148:6:copyAfterPattern	5
+../Core/Src/ringBuffer.c:177:6:copyCircularBuffer	2
